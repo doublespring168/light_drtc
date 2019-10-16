@@ -1,0 +1,14 @@
+!/.idea
+/.idea/*
+!/.idea/runConfigurations/
+*/*.iml
+*/target
+**/target
+/logs
+*/logs
+*.iml
+**/*.log
+common/*.key
+**/target/**
+*/.settings
+
